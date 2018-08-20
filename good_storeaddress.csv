@@ -1,0 +1,932 @@
+,address,store,number,geometry.type,longtitude,latitude
+0,"253 W 51st St
+New York, NY 10019",Bibble & Sip,540,Point,-73.985214,40.7628203
+1,"83-25 Broadway
+Elmhurst, NY 11373",JoJu,535,Point,-73.879126,40.740802
+2,"13 St Marks Pl
+New York, NY 10003",Spot Dessert Bar,532,Point,-73.9889486,40.7293637
+3,"65 Bayard St
+New York, NY 10013",Chinatown Ice Cream Factory,525,Point,-73.9981078,40.71535129999999
+4,"85B Allen St
+New York, NY 10002",Soft Swerve,521,Point,-73.9911935,40.7181664
+5,"118 Baxter St
+New York, NY 10013",Kam Hing Coffee Shop,520,Point,-73.9992513,40.7180353
+6,"1700 2nd Ave
+New York, NY 10128",Vietnaam,516,Point,-73.950418,40.7791782
+7,"433 Broome St
+Ground Fl
+New York, NY 10013",Harney & Sons SoHo,515,Point,-73.9994621,40.7213556
+8,"17 W 32nd St
+New York, NY 10001",Grace Street,507,Point,-73.9865153,40.747819
+9,"134 Smith St
+Brooklyn, NY 11201",Hanco’s,491,Point,-73.9903604,40.6872209
+10,"28 Jane St
+New York, NY 10014",Grounded,486,Point,-74.00343,40.737976
+11,"114 Macdougal St
+New York, NY 10012",Saigon Shack,484,Point,-74.0005639,40.7296597
+12,"362 W 45th St
+New York, NY 10036",Schmackary’s,473,Point,-73.98980209999999,40.7597597
+13,"23 Clinton St
+New York, NY 10002",Boba Guys,468,Point,-73.9845193,40.7206127
+14,"106 Mott St
+New York, NY 10013",Sweet Moment,459,Point,-73.9970059,40.7176668
+15,"6 W 32nd St
+New York, NY 10001",Paris Baguette,457,Point,-73.9863775,40.7472205
+16,"425 W 15th St
+New York, NY 10011",Very Fresh Noodles,452,Point,-74.0061307,40.7422926
+17,"222 Lafayette St
+New York, NY 10012",BoCaphe,452,Point,-73.9976257,40.7220993
+18,"36-39 Prince St
+Flushing, NY 11354",Prince Tea House,448,Point,-73.8326939,40.7612978
+19,"230 E 9th St
+Fl 2
+New York, NY 10003",Cha-An,442,Point,-73.9881681,40.7294074
+20,"18 E 41st St
+New York, NY 10017",Café Zaiya,441,Point,-73.9804547,40.75220789999999
+21,"32-02 30th Ave
+Astoria, NY 11102",Burger Club,426,Point,-73.9204957,40.7663421
+22,"49 Bayard St
+New York, NY 10013",Vivi Bubble Tea,424,Point,-73.99748799999999,40.7151669
+23,"315 5th Ave
+New York, NY 10016",Besfren,424,Point,-73.9851724,40.7468603
+24,"935 Columbus Ave
+New York, NY 10025",Saiguette,423,Point,-73.9627312,40.79899289999999
+25,"373 Broome St
+New York, NY 10013",Cha Cha Matcha,422,Point,-73.9962737,40.7201712
+26,"39-34 Bell Blvd
+Bayside, NY 11361",Nippon Cha,420,Point,-73.7716762,40.7643237
+27,"445 Albee Square W
+Basement Level
+Brooklyn, NY 11201",Dekalb Market Hall,413,Point,-73.9833099,40.6910198
+28,"158 W 55th St
+New York, NY 10019",Radiance Tea House and Books,411,Point,-73.98053879999999,40.7638452
+29,"73 Mott St
+New York, NY 10013",Ten Ren’s Tea Time,406,Point,-73.99819959999999,40.7163685
+30,"238 E 14th St
+New York, NY 10003",BaoHaus,392,Point,-73.98578069999999,40.7324276
+31,"11 W 32nd St
+Fl 2
+New York, NY 10001",Spot Dessert Bar,350,Point,-73.9861939,40.7477348
+32,"85 Kenmare St
+New York, NY 10012",Bar Pa Tea,344,Point,-73.9967305,40.7214124
+33,"350 7th Ave
+Brooklyn, NY 11215",Hanco’s,344,Point,-73.9823372,40.6663056
+34,"109 Montrose Ave
+Brooklyn, NY 11206",Nam Nam,343,Point,-73.9452357,40.7072817
+35,"31 West 32nd St
+New York, NY 10001",Tous Les Jours,340,Point,-73.9870352,40.7479357
+36,"51 Chrystie St
+New York, NY 10002",Yaya Tea Garden,339,Point,-73.9950865,40.7163583
+37,"39-16 Prince St
+Flushing, NY 11354",Spot Dessert Bar,339,Point,-73.8322441,40.7590931
+38,"1564 1st Ave
+New York, NY 10028",Emack & Bolio’s,315,Point,-73.9514222,40.7737594
+39,"63 Bayard St
+New York, NY 10013",Mango Mango Dessert - New York,312,Point,-73.9980929,40.7153242
+40,"6122 7th Ave
+Brooklyn, NY 11220",Prince Tea House,311,Point,-74.013036,40.6359319
+41,"73 Chrystie St
+New York, NY 10002",Kung Fu Tea,277,Point,-73.9945616,40.7171001
+42,"129 E 45th St
+New York, NY 10017",CoCo Fresh Tea & Juice,275,Point,-73.97428479999999,40.7533859
+43,"5-51 47th Ave
+Long Island City, NY 11101",Cyclo,274,Point,-73.9542519,40.745926
+44,"32-02 34th Ave
+Astoria, NY 11106",Tea and Milk,274,Point,-73.9262574,40.7590794
+45,"109 Eldridge St
+New York, NY 10002",Simple NYC,267,Point,-73.9922198,40.7182142
+46,"949 Broadway
+New York, NY 10010",Argo Tea,261,Point,-73.9896776,40.7409957
+47,"75 W 38th St
+New York, NY 10018",Gong Cha,252,Point,-73.9856369,40.7523195
+48,"89A Bayard St
+New York, NY 10013",Alimama,236,Point,-73.9992694,40.7158204
+49,"145D Hester St
+New York, NY 10002",Teado Tea Shop,230,Point,-73.99508709999999,40.7172508
+50,"Located in
+Food Gallery 32",Sweet Churros,228,Point,-73.986194,40.747735
+51,"567 7th Ave
+New York, NY 10018",Paris Baguette,216,Point,-73.9875184,40.7549419
+52,"348 7th Ave
+New York, NY 10001",VLife,213,Point,-73.9929658,40.7482132
+53,"422 Forest Ave
+Staten Island, NY 10301",Beans and Leaves,206,Point,-74.1033446,40.6306423
+54,"341 E 78th St
+New York, NY 10075",Sashimi Ramen Express,204,Point,-73.9540525,40.7722252
+55,"13518 Roosevelt Ave
+Flushing, NY 11354",Ten Ren Tea & Ginseng,203,Point,-73.83126949999999,40.7589721
+56,"177 New Dorp Ln
+New York, NY 10306",Piece A Cake,199,Point,-74.114797,40.5734688
+57,"81 Bergen St
+Brooklyn, NY 11201",Van Leeuwen,198,Point,-73.9901564,40.68672309999999
+58,"125 2nd Ave
+New York, NY 10003",Bingbox Snow Cream,197,Point,-73.98812219999999,40.7283583
+59,"1792 Broadway
+New York, NY 10019",Argo Tea,195,Point,-73.98147759999999,40.7671394
+60,"11 Waverly Pl
+New York, NY 10002",Boba Guys,194,Point,-73.9940771,40.7301485
+61,"178 Lincoln Pl
+Brooklyn, NY 11217",Banhmigos,185,Point,-73.97435089999999,40.67554670000001
+62,"55B Bayard St
+New York, NY 10013",Bubbly Tea,180,Point,-73.9978323,40.7151578
+63,"622 Washington Ave
+Brooklyn, NY 11238",Look By Plant Love House,179,Point,-73.9643268,40.679893
+64,"1407 Richmond Ave
+Staten Island, NY 10314",Pho Mac Vietnamese Restaurant,179,Point,-74.15757409999999,40.6139183
+65,"11 Pell St
+New York, NY 10013",Taiwan Bear House,178,Point,-73.9978094,40.7147104
+66,"265 Canal St
+New York, NY 10013",Boba Guys,177,Point,-74.0008623,40.71906320000001
+67,"265 Canal St
+New York, NY 10013",Boba Guys,177,Point,-74.0008623,40.71906320000001
+68,"265 Canal St
+New York, NY 10013",Canal Street Market,97,Point,-74.0008623,40.71906320000001
+69,"265 Canal St
+New York, NY 10013",Canal Street Market,97,Point,-74.0008623,40.71906320000001
+70,"45-43B Bell Blvd
+Bayside, NY 11361",Pâté,176,Point,-73.768365,40.759153
+71,"136 W 28th St
+New York, NY 10001",Ajisen Ramen,173,Point,-73.9922083,40.7466196
+72,"3710 31st Ave
+Astoria, NY 11103",Tea Plus Cafe,172,Point,-73.918453,40.761676
+73,"205 Allen St
+New York, NY 10002",Vivi Bubble Tea,168,Point,-73.9891207,40.7227182
+74,"136-20 38th Ave
+Flushing, NY 11354",Kung Fu Tea,167,Point,-73.8298336,40.7607693
+75,"147 Montague St
+Brooklyn, NY 11201",Hanco’s,165,Point,-73.993402,40.6947712
+76,"234 Canal St
+Ste 107
+New York, NY 10013",Kung Fu Tea,165,Point,-73.99988309999999,40.717725
+77,"806 62nd St
+Brooklyn, NY 11220",Kulu Desserts,160,Point,-74.0106636,40.6341309
+78,"88-38 Sutphin Blvd
+Jamaica, NY 11435",Beijing Dumpling House,159,Point,-73.8090893,40.7039858
+79,"30 Dekalb Ave
+Brooklyn, NY 11201",The Wei,155,Point,-73.9817862,40.6896847
+80,"19A Mott St
+New York, NY 10013",Auntea,154,Point,-73.999026,40.7144001
+81,"6116 7th Avenue
+Brooklyn, NY 11220",Snow & Cream,154,Point,-74.0129245,40.6360465
+82,"37 Orchard St
+New York, NY 10002",Sam’s Fried Ice Cream,154,Point,-73.99153,40.715839
+83,"23 St Marks Pl
+New York, NY 10003",Mango Mango Dessert,153,Point,-73.9886502,40.7292248
+84,"824B Washington Ave
+Brooklyn, NY 11238",Banh Mi Place,151,Point,-73.9631445,40.6732812
+85,"229 5th Ave
+Brooklyn, NY 11215",Lotus Vietnamese Sandwiches,149,Point,-73.980822,40.6754824
+86,"38 Lexington Ave
+New York, NY 10010",CoCo Fresh Tea & Juice,145,Point,-73.9845295,40.7401547
+87,"64-19 Fresh Pond Rd
+Ridgewood, NY 11385",Co Co Lin Vegetarian House,144,Point,-73.8988353,40.7098845
+88,"321 W 6th Ave
+New York, NY 10012",Fay Da Bakery,139,Point,-74.0016772,40.7311206
+89,"7210 B 3rd Ave
+Brooklyn, NY 11209",Cream Coffee & Tea Shop,139,Point,-74.027327,40.6332791
+90,"1706 Sheepshead Bay Rd
+Brooklyn, NY 11235",Arbuz,139,Point,-73.9519303,40.5857749
+91,"275 7th Ave
+New York, NY 10001",Argo Tea Café,136,Point,-73.9941625,40.7455667
+92,"72-36 Austin St
+Forest Hills, NY 11375",Violet’s Vietnamese Shoppe,134,Point,-73.84155510000001,40.7186567
+93,"Located in
+Mitsuwa Marketplace",Matcha Love By Ito En,132,Point,-73.979951,40.8159989
+94,"136-19 38th Ave
+Flushing, NY 11354",Shiny Tea,132,Point,-73.8300288,40.7611857
+95,"206 Grand St
+New York, NY 10013",Yaya Tea Garden,131,Point,-73.9963099,40.7191263
+96,"75 University Pl
+New York, NY 10003",Argo Tea,131,Point,-73.9932213,40.7331691
+97,"674 Lexington Ave
+New York, NY 10022",Juicy Cube,131,Point,-73.969887,40.760182
+98,"227 E 14th St
+New York, NY 10003",PaTea,130,Point,-73.9859184,40.7330263
+99,"7924 3rd Ave
+Brooklyn, NY 11209",Kathy’s Dumplings,129,Point,-74.02953029999999,40.6280206
+100,"8331 Broadway
+Elmhurst, NY 11373",Anda Cafe,126,Point,-73.879018,40.740723
+101,"580 Grand St
+Brooklyn, NY 11211",Mama Pho,125,Point,-73.94853049999999,40.7109848
+102,"37 Cooper Sq
+New York, NY 10003",Meet Fresh,124,Point,-73.990648,40.7280848
+103,"34 Canal St
+New York, NY 10002",The Bao Shoppe,122,Point,-73.9906932,40.7143577
+104,"471 16th St
+Brooklyn, NY 11215",East Wind Snack Shop,122,Point,-73.9800415,40.66037499999999
+105,"12 W 32nd St
+New York, NY 10001",Gong Cha,121,Point,-73.9865612,40.7474009
+106,"591 Lexington Ave
+New York, NY 10022",Paris Baguette,119,Point,-73.9712333,40.757495
+107,"607 9th Ave
+New York, NY 10036",Vivi Bubble Tea,119,Point,-73.99235,40.75936799999999
+108,"5-25 46th Ave
+Long Island City, NY 11101",LIC Flea & Food,116,Point,-73.9541673,40.7474496
+109,"28 St Marks Pl
+New York, NY 10003",Kung Fu Tea,115,Point,-73.9885836,40.7288288
+110,"33 St Mark's Pl
+New York, NY 10003",CoCo Fresh Tea & Juice,114,Point,-73.988118,40.7290101
+111,"15405 Union Tpke
+Flushing, NY 11367",Salad Shack,113,Point,-73.80972179999999,40.71996439999999
+112,"9 St Marks Pl
+New York, NY 10003",Nohohon Matcha NYC,109,Point,-73.9891322,40.7294283
+113,"192 1st Ave
+New York, NY 10009",Juice Vitality,109,Point,-73.9834735,40.72967740000001
+114,"1073 6th Ave
+Fl 2
+Kinokuniya Bookstore
+New York, NY 10018",Cafe Zaiya,109,Point,-73.9849703,40.7540432
+115,"271 Smith St
+Brooklyn, NY 11231",Fob Brooklyn,108,Point,-73.9930612,40.68266879999999
+116,"1226 Forest Ave
+Staten Island, NY 10310",The Cookie Jar,108,Point,-74.1306254,40.6261756
+117,"39-22 Main St
+Flushing, NY 11354",CoCo Fresh Tea & Juice,106,Point,-73.8303626,40.7596332
+118,"433 7th Ave
+Brooklyn, NY 11215",Henry’s,104,Point,-73.9841732,40.6633859
+119,"196 Court St
+Brooklyn, NY 11201",Blossom Ice Cream,103,Point,-73.9938611,40.6872247
+120,"2320 86th St
+Gravesend, NY 11214",Yaya Tea Garden,102,Point,-73.9912327,40.6000702
+121,"133-35 Roosevelt Ave
+Ste 11
+Flushing, NY 11354",Happy Lemon,99,Point,-73.8331304,40.7588339
+122,"75 Mott St
+New York, NY 10013",Ten Ren Tea,99,Point,-73.9982551,40.7164508
+123,"123 E 7th St
+New York, NY 10009",Tea Drunk,98,Point,-73.9841737,40.7264466
+124,"372 Lafayette Ave
+Clinton Hill, NY 11238",The Market,96,Point,-73.96049900000001,40.688567
+125,"170 W 23rd St
+New York, NY 10011",Vivi Bubble Tea,95,Point,-73.9954779,40.743773
+126,"422 E 14th St
+New York, NY 10009",Hawa Smoothies & Bubble Tea,95,Point,-73.9816026,40.7306377
+127,"2878 Broadway
+New York, NY 10025",Tea Magic,93,Point,-73.96558449999999,40.8052781
+128,"107-50 Queens Blvd
+Forest Hills, NY 11375",Fay Da Bakery,90,Point,-73.8446172,40.7212769
+129,"79 Bayard St
+New York, NY 10013",Sun’s Organic Garden,88,Point,-73.99876929999999,40.7156324
+130,"226 E 14th St
+New York, NY 10003",ViVi Bubble Tea,87,Point,-73.98620609999999,40.7326152
+131,"33-17 30th Ave
+Astoria, NY 11103",The Teapsy New York,87,Point,-73.91898599999999,40.766051
+132,"225 Post Ave
+Westbury, NY 11590",Nana’s Ice Cream & Coffee House,86,Point,-73.58812929999999,40.7568515
+133,"636 Park Pl
+Brooklyn, NY 11238",Banhmigos,86,Point,-73.9569925,40.6742351
+134,"5817 8th Ave
+Brooklyn, NY 11220",Ten Ren,85,Point,-74.0086784,40.6361946
+135,"45-40 Bell Blvd
+Bayside, NY 11361",CoCo Fresh Tea & Juice,84,Point,-73.768966,40.7591989
+136,"3111 Broadway
+New York, NY 10027",Culture Tea Bar,84,Point,-73.9607338,40.8129171
+137,"858 Lexington Ave
+New York, NY 10065",Chatime,84,Point,-73.9658192,40.7658058
+138,"31 Waverly Pl
+Ste 5
+New York, NY 10003",Kung Fu Tea,83,Point,-73.995177,40.730607
+139,"177-07 Union Tpke
+Fresh Meadows, NY 11366",Crepe N Tearia,83,Point,-73.79062569999999,40.7263915
+140,"41-26 27th St
+Long Island City, NY 11101",RESOBOX,83,Point,-73.939082,40.7513042
+141,"1430 Richmond Ave
+Staten Island, NY 10314",Hawaii Poke Bowl,82,Point,-74.1589984,40.6134575
+142,"5401 8th Ave
+Brooklyn, NY 11220",Chi Ken,82,Point,-74.0059467,40.63865500000001
+143,"1425 W 10th St
+Bensonhurst, NY 11204",Arnor Crepes & Bubble Tea,82,Point,-73.983898,40.6105715
+144,"2333 Hylan Blvd
+Staten Island, NY 10306",Simple Asia,82,Point,-74.106267,40.5744055
+145,"70-10 Austin St
+Ste 3
+Forest Hills, NY 11375",Kung Fu Tea,81,Point,-73.8468226,40.7206664
+146,"39 W 32nd St
+New York, NY 10001",Caffe Bene,79,Point,-73.9872958,40.7481614
+147,"1095 St Niclolas Ave
+New York, NY 10032",Rain II,79,Point,-73.94005229999999,40.8383712
+148,"86-12 Justice Ave
+Elmhurst, NY 11377",Kung Fu Tea,78,Point,-73.8769004,40.7379176
+149,"570 Lexington Ave
+New York, NY 10022",Bao By Kaya,78,Point,-73.9726033,40.7571519
+150,"46 Mulberry St
+New York, NY 10013",Mama Eatery,77,Point,-73.9994621,40.715022
+151,"618 4th Ave
+Brooklyn, NY 11215",Bread & Joe,76,Point,-73.993832,40.664853
+152,"Located in
+New World Mall Food Court",Gong Cha,76,Point,-73.82905749999999,40.7593729
+153,"7202 New Utrecht Ave
+Brooklyn, NY 11228",Tea & Burger,76,Point,-73.9995539,40.6182063
+154,"271-16 Union Tpke
+New Hyde Park, NY 11040",efresh,76,Point,-73.7023873,40.7518508
+155,"2174 86th St
+Brooklyn, NY 11214",Kung Fu Tea,76,Point,-73.99437759999999,40.6019865
+156,"40 Hoyt St
+Brooklyn, NY 11201",Kung Fu Tea,76,Point,-73.9859812,40.6894508
+157,"496 Main St
+New Rochelle, NY 10801",Korean BBQ Grill,76,Point,-73.7812781,40.9089481
+158,"18204 Horace Harding Expy
+Fresh Meadows, NY 11365",Iris Tea & Bakery,75,Point,-73.79157219999999,40.7389789
+159,"41-31 Queens Blvd
+Sunnyside, NY 11104",Caffebene,75,Point,-73.9225332,40.7439419
+160,"80-62 Lefferts Blvd
+Kew Gardens, NY 11415",Mr.Wish,75,Point,-73.83005709999999,40.7093256
+161,"5 Saint Marks Pl
+New York, NY 10003",Spot Dessert Bar,74,Point,-73.9893159,40.7294544
+162,"2667 Broadway
+New York, NY 10025",Shiny Tea,72,Point,-73.9694954,40.7983067
+163,"12 Chatham Sq
+New York, NY 10038",Audrey Bakery & Cafe,72,Point,-73.9979074,40.7141309
+164,"2W 32nd St
+New York, NY 10001",Koku Ramen,72,Point,-73.9861468,40.747272
+165,"70-23 Austin St
+Forest Hills, NY 11375",T-Swirl Crêpe,71,Point,-73.84617999999999,40.7208604
+166,"482 5th Ave
+New York, NY 11215",Pearl Gate,71,Point,-73.98758149999999,40.6679562
+167,"1422 Ave U
+Brooklyn, NY 11229",Kung Fu Tea,69,Point,-73.9565322,40.5985988
+168,"30 Mott St
+New York, NY 10013",Silk Road Cafe,69,Point,-73.9985581,40.71471529999999
+169,"2309 Astoria Blvd
+Astoria, NY 11102",Infinitea NY,69,Point,-73.9238347,40.7717804
+170,"8306 Broadway
+Elmhurst, NY 11373",Quickly,67,Point,-73.8799365,40.7407821
+171,"42-02 30th Ave
+Astoria, NY 11103",Brother Crêpe,67,Point,-73.9133542,40.7629663
+172,"358 W 47th St
+New York, NY 10036",UT47,66,Point,-73.9899701,40.7613253
+173,"1219 1st Ave
+New York, NY 10065",Kung Fu Tea,66,Point,-73.9590391,40.764001
+174,"6307 18th Ave
+Brooklyn, NY 11204",Caffe Bene,65,Point,-73.98899449999999,40.619959
+175,"11 West 32nd St
+Stall 9
+New York, NY 10001",Kung Fu Tea,63,Point,-73.9861939,40.7477348
+176,"724 10th Ave
+New York, NY 10019",Desi Deli Indian Restaurant,63,Point,-73.9917492,40.7642693
+177,"2661 A Broadway
+Manhattan, NY 10025",Cool Fresh Juice Bar,62,Point,-73.9696649,40.79812889999999
+178,"158-07 Northern Blvd
+Flushing, NY 11358",Cocohodo,62,Point,-73.80701309999999,40.7635384
+179,"76-23 Woodside Ave
+Elmhurst, NY 11377",Tea Cup Cafe,61,Point,-73.8882021,40.7436819
+180,"26 Rutgers St
+New York, NY 10002",Mee Cafe,61,Point,-73.99022529999999,40.7130606
+181,"314 New Dorp Ln
+Staten Island, NY 10306",Something Sweet Homemade,61,Point,-74.1122276,40.5715583
+182,"45-04 Queens Blvd
+Sunnyside, NY 11104",Zen Yai Pho Shop & Coffee,61,Point,-73.91937229999999,40.7429529
+183,"5920 Main St
+Flushing, NY 11355",Tea Shop 168 & Bakery,60,Point,-73.8259278,40.7433057
+184,"2039B Broadway
+New York, NY 10023",Paris Baguette,60,Point,-73.9826008,40.7776667
+185,"4910 Vernon Blvd
+Long Island City, NY 11101",Something Sweet,59,Point,-73.9542362,40.7431559
+186,"1384 Broadway
+New York, NY 10018",CoCo Fresh Tea & Juice,58,Point,-73.98700699999999,40.75255200000001
+187,"79-28 Metropolitan Ave
+Middle Village, NY 11379",Taj Village,58,Point,-73.87245999999999,40.713021
+188,"35-16 Ditmars Blvd
+Astoria, NY 11105",Vivi Bubble Tea,57,Point,-73.9085709,40.7743944
+189,"7211 18th Ave
+Brooklyn, NY 11204",Just-Desserts,57,Point,-73.9943308,40.6146902
+190,"61-05 Madison St
+Ridgewood, NY 11385",The Spot,57,Point,-73.8970109,40.707344
+191,"209 E 14th St
+New York, NY 10003",Gong Cha,57,Point,-73.9862398,40.7332264
+192,"2902 Ditmars Blvd
+Astoria, NY 11105",Yogurt La Crepe,56,Point,-73.9117677,40.7765762
+193,"81-21 Broadway
+Elmhurst, NY 11373",Chatime,56,Point,-73.8830931,40.7432094
+194,"1 Catherine St
+New York, NY 10038",Gong Cha,55,Point,-73.99727969999999,40.7138763
+195,"806 55th St
+Brooklyn, NY 11220",Kung Fu Tea,55,Point,-74.0064287,40.6380465
+196,"83-28 Broadway
+Elmhurst, NY 11373",Vivi Bubble Tea,55,Point,-73.87936499999999,40.740297
+197,"5323 7th Ave
+Brooklyn, NY 11220",Formosa Cafe,55,Point,-74.0079895,40.64018189999999
+198,"30-58 Steinway St
+Astoria, NY 11103",Red Mango,55,Point,-73.9164157,40.7625789
+199,"9711 64th Ave
+Rego Park, NY 11374",Chatime Station,54,Point,-73.8602499,40.729951
+200,"237 Flatbush Ave
+Brooklyn, NY 11217",PokéBowl Station,53,Point,-73.9750004,40.6811056
+201,"34 Eldridge St
+New York, NY 10002",Formosa Cafe,53,Point,-73.9931533,40.7156264
+202,"168-17 Union Tpke
+Fresh Meadows, NY 11366",Sweet Cats Cafe,53,Point,-73.7997628,40.723335
+203,"72 Bayard St
+New York, NY 10013",Gong Cha,53,Point,-73.9982313,40.7157353
+204,"181 E Broadway
+Ste A
+New York, NY 10002",Hawa Smoothies,53,Point,-73.9892294,40.7139592
+205,"80-27 37th Ave
+Jackson Heights, NY 11372",Caffe Bene,53,Point,-73.88546199999999,40.7497443
+206,"85-36 Grand Ave
+Elmhurst, NY 11373",Summer,52,Point,-73.88091399999999,40.735356
+207,"6731 Bay Pkwy
+Bensonhurst, NY 11204",ViVi Bubble Tea,52,Point,-73.9830197,40.6118877
+208,"208 W 23rd St
+New York, NY 10011",Avalon New York,51,Point,-73.99643209999999,40.7440535
+209,"217 Thompson St
+New York, NY 10012",Debutea,51,Point,-73.99932439999999,40.729175
+210,"99 Chrystie St
+New York, NY 10002",Feng Cha,51,Point,-73.9942284,40.7179102
+211,"2108 Bath Ave
+Brooklyn, NY 11214",Let’s Dessert,51,Point,-73.9993193,40.5997029
+212,"183 Hester St
+New York, NY 10013",Vivi Bubble Tea,51,Point,-73.9974077,40.7181196
+213,"15-26 College Point Blvd
+College Point, NY 11356",Mango Mama,51,Point,-73.846125,40.783467
+214,"64 7th Ave
+New York, NY 10011",Momentea,48,Point,-73.9997526,40.7387987
+215,"41-12 162nd St
+Flushing, NY 11358",Coffee Monster,48,Point,-73.80401429999999,40.7610343
+216,"790 Manhattan Ave
+Brooklyn, NY 11222",ViVi Bubble Tea,48,Point,-73.9527667,40.7276601
+217,"136-55 Roosevelt Ave
+Flushing, NY 11354",Momo Ashi,48,Point,-73.8281679,40.7602824
+218,"38-03 Main St
+Flushing, NY 11354",Moge Tee,48,Point,-73.830445,40.7608091
+219,"5918 5th Ave
+Brooklyn, NY 11220",Sweet Dynasty,48,Point,-74.0161723,40.6398227
+220,"17637 Union Tpke
+Fresh Meadows, NY 11366",Poke Coffee,47,Point,-73.792292,40.72586800000001
+221,"41-11 Kissena Blvd
+Flushing, NY 11355",Kung Fu Tea,47,Point,-73.8288238,40.7583521
+222,"118 W 72nd St
+New York, NY 10023",Coco Fresh Tea & Juice,46,Point,-73.97967419999999,40.77740989999999
+223,"19 Bogart St
+Brooklyn, NY 11206",Ozi Dumplings,46,Point,-73.93319199999999,40.703888
+224,"160 E 44th St
+New York, NY 10017",Gong Cha,44,Point,-73.9739606,40.7520891
+225,"65 W 8th St
+New York, NY 10011",Vivi Bubble Tea,44,Point,-73.99921499999999,40.7335934
+226,"143-01 45th Ave
+Flushing, NY 11355",Sweet Haus Cafe,44,Point,-73.8183937,40.7540285
+227,"82-02 Rooselvelt Ave
+Jackson Heights, NY 11372",Kung Fu Tea,43,Point,-73.88372660000002,40.7474573
+228,"44 Willoughby St
+Downtown Brooklyn, NY 11201",Hawa Smoothies & Bubble Tea,43,Point,-73.9870662,40.6920952
+229,"94-19 63rd Dr
+Rego Park, NY 11374",Tasty & Co,43,Point,-73.8630946,40.7292664
+230,"37A Bedford St
+New York, NY 10014",Luv Tea,43,Point,-74.0039314,40.7296557
+231,"2037 86th St
+Brooklyn, NY 11214",PokéBowl Station,43,Point,-73.99710920000001,40.604173
+232,"4823 8th Ave
+Brooklyn, NY 11220",T Baar,42,Point,-74.00283209999999,40.6416128
+233,"9 Edward M Morgan Pl
+New York, NY 10032",Caffebene,42,Point,-73.9452264,40.8346252
+234,"9 Broadway
+New York, NY 10004",Kung Fu Tea,42,Point,-74.0142069,40.7051869
+235,"57th St & 8th Ave
+Under Columbus Cir
+New York, NY 10019",Turnstyle,41,Point,-73.9828696,40.766736
+236,"2425 Broadway
+New York, NY 10024",Ollie’s To Go,41,Point,-73.9751574,40.7904714
+237,"2568 Broadway
+New York, NY 10025",Paris Baguette,41,Point,-73.9710102,40.7950446
+238,"40-06 Union St
+Flushing, NY 11354",Gong Cha,41,Point,-73.82656419999999,40.7601904
+239,"2236 Forest Ave
+Ste 3
+Staten Island, NY 10303",Yummy Machi,40,Point,-74.16422759999999,40.6262665
+240,"6047 Myrtle Ave
+Ridgewood, NY 11385",Ama Coffee,40,Point,-73.8966324,40.7007901
+241,"273 W 38th St
+New York, NY 10018",New Li Yuan,40,Point,-73.99110639999999,40.7546846
+242,"378 Canal St
+New York, NY 10013",Caffe Bene,39,Point,-74.00445470000001,40.721011
+243,"79 Division St
+New York, NY 10002",Coco Fresh Tea & Juice,39,Point,-73.9938025,40.7141342
+244,"12 John St
+New York, NY 10038",CoCo Fresh Tea & Juice,39,Point,-74.0091249,40.7098261
+245,"3504 30th Ave
+Astoria, NY 11103",Sunberi Frozen Yogurt & Crepe,39,Point,-73.918145,40.765087
+246,"135-15 40th Rd
+Flushing, NY 11354",YiFang Taiwan Fruit Tea,38,Point,-73.83102819999999,40.758735
+247,"6 S Station Plz
+Great Neck Plaza, NY 11021",Vivi Bubble Tea,38,Point,-73.7264005,40.78688959999999
+248,"135-29 Roosevelt Ave
+Flushing, NY 11354",Mi Tea,37,Point,-73.83103969999999,40.7594792
+249,"8612 5th Ave
+Brooklyn, NY 11209",Coco Fresh Tea & Juice,37,Point,-74.0267188,40.6212881
+250,"72-01 Austin St
+Forest Hills, NY 11375",Pink Forest,36,Point,-73.8424218,40.7194096
+251,"1418 Mermaid Ave
+Brooklyn, NY 11224",ChowTime,36,Point,-73.9822397,40.5768076
+252,"349 5th Ave
+Brooklyn, NY 11215",Home,36,Point,-73.9838517,40.6717514
+253,"196 Canal St
+New York, NY 10013",Loving Tea,36,Point,-73.9983144,40.7166744
+254,"61-24 Springfield Blvd
+Oakland Gardens, NY 11364",HI Tea Hong Kong Style Cafe,36,Point,-73.7566477,40.7484534
+255,"39-01 Main St
+Flushing, NY 11354",Teas Me Dear,36,Point,-73.8300059,40.7601602
+256,"7318 Broadway
+Jackson Heights, NY 11372",Double Rainbow of Woodside Bakery,36,Point,-73.8917305,40.7466313
+257,"124A Hester St
+New York, NY 10002",Anda Cafe,36,Point,-73.9947334,40.7169004
+258,"4207 Hylan Blvd
+Staten Island, NY 10308",Hong Kong Kei One,35,Point,-74.1505351,40.5375733
+259,"40-24 College Point Blvd
+Ste B 205
+Flushing, NY 11354",Coco Fresh Tea & Juice,35,Point,-73.83477300000001,40.7576904
+260,"80 Dekalb Ave
+Brooklyn, NY 11201",Chau Down Cafe,34,Point,-73.9800415,40.6896302
+261,"52 Kenmare St
+New York, NY 10012",C Tea,34,Point,-73.99569629999999,40.7207575
+262,"1000 S 8th Ave
+New York, NY 10019",Panda Bubble Tea,34,Point,-73.98298,40.7669606
+263,"6815 Bay Pkwy
+Brooklyn, NY 11204",80’s Tea,34,Point,-73.98369319999999,40.6114258
+264,"705 59th St
+Brooklyn, NY 11220",I CE NY,33,Point,-74.0108013,40.6373606
+265,"54 N 6th St
+Brooklyn, NY 11249",Blossom Ice Cream & The Poké,33,Point,-73.9620187,40.7194262
+266,"61-09 Utopia Pkwy
+Fresh Meadows, NY 11365",Tea Shop & Bakery,33,Point,-73.7925917,40.738517
+267,"284 3rd Ave
+New York, NY 10010",Yaya Tea Garden,33,Point,-73.983683,40.7383967
+268,"1000 8th Ave
+New York, NY 10019",Yong Kang Street,32,Point,-73.98298,40.7669606
+269,"197 E 76th St
+New York, NY 10021",Tenny & Betsy - Tea and Pop-Ups,32,Point,-73.9590504,40.772604
+270,"125 Walker St
+New York, NY 10013",Sweets Bakery,32,Point,-73.99994459999999,40.7173202
+271,"86-55 Broadway
+Elmhurst, NY 11373",Coco Fresh Tea & Juice,32,Point,-73.8771249,40.7373229
+272,"5614 Van Horn St
+Elmhurst, NY 11373",Pata Cafe,32,Point,-73.8767077,40.7324493
+273,"42 Eldridge St
+New York, NY 10002",Binki Cafe,32,Point,-73.9930347,40.7157326
+274,"123 W 3rd St
+New York, NY 10012",Jupioca,32,Point,-74.0003803,40.7307534
+275,"223 E 74th St
+New York, NY 10021",Sashimi Express II,31,Point,-73.9584608,40.7707303
+276,"69-38 Grand Ave
+Queens, NY 11378",Le Moment,31,Point,-73.89407659999999,40.7264466
+277,"6609 Fort Hamilton Pkwy
+Brooklyn, NY 11219",Teadora,31,Point,-74.009958,40.62974
+278,"73-10 Bell Blvd
+Oakland Gardens, NY 11364",Sweet Adele’s,31,Point,-73.7584722,40.74036359999999
+279,"30 3rd Ave
+New York, NY 10003",Vivi Bubble Tea,30,Point,-73.9896177,40.7303635
+280,"38-21 Main St
+Flushing, NY 11354",Macao Imperial Tea,30,Point,-73.8303945,40.7604349
+281,"19 Hillel Pl
+Brooklyn, NY 11210",Jupioca,30,Point,-73.94836980000001,40.6325137
+282,"120 Riverside Blvd
+New York, NY 10069",Blu Cafe,29,Point,-73.9891093,40.7763767
+283,"2349 86th St
+Brooklyn, NY 11214",HeSheEat,29,Point,-73.99017669999999,40.6000753
+284,"18 W 14th St
+New York, NY 10011",Vivi Bubble Tea,29,Point,-73.99491990000001,40.73624270000001
+285,"2833 Grand Concourse
+Bronx, NY 10468",Mei Mei Restaurant,29,Point,-73.8915341,40.8702079
+286,"Located in
+Queens Center",Gong Cha,28,Point,-73.8699788,40.734682
+287,"Located in
+Queens Center",Gong Cha,28,Point,-73.8699788,40.734682
+288,"Located in
+Queens Center",Tbaar,15,Point,-73.8699788,40.734682
+289,"Located in
+Queens Center",Tbaar,15,Point,-73.8699788,40.734682
+290,"42-35 162nd St
+Flushing, NY 11358",Bakery De Paris,28,Point,-73.80391999999999,40.7591732
+291,"7711 Jamaica Ave
+Woodhaven, NY 11421",Tea & Snacks,28,Point,-73.86440619999999,40.69189739999999
+292,"140 West 4th St
+New York, NY 10012",BÀO Tea House,28,Point,-74.0005639,40.7311655
+293,"45-01 Greenpoint Ave
+Sunnyside, NY 11104",Ave Coffee House,28,Point,-73.9193779,40.7422962
+294,"1808 Weirfield St
+New York, NY 11385",Tornado Crepe,28,Point,-73.9027004,40.7001601
+295,"118-15 Queens Blvd
+Forest Hills, NY 11375",O’ Tea,28,Point,-73.8316407,40.7151078
+296,"1088 Central Park Ave
+Scarsdale, NY 10583",Go Greenly,27,Point,-73.8241243,40.986977
+297,"42-21 Bell Blvd
+Bayside, NY 11361",Kung Fu Tea,27,Point,-73.76998030000001,40.7620978
+298,"121 Madison Ave
+New York, NY 10016",Blank Slate Tea,27,Point,-73.9844262,40.7452258
+299,"2169 86th St
+Brooklyn, NY 11214",Vivi Bubble Tea,27,Point,-73.99407889999999,40.6024434
+300,"1 Pike St
+New York, NY 10002",One More Drinks,26,Point,-73.99233559999999,40.7142081
+301,"5510 7th Ave
+Sunset Park, NY 11220",Taiwan Station,26,Point,-74.009265,40.639556
+302,"136-20 Roosevelt Ave
+Flushing, NY 11355",TBaar,26,Point,-73.8290557,40.75933550000001
+303,"5924 8th Ave
+Brooklyn, NY 11220",Vivi Bubble Tea,26,Point,-74.0096516,40.6356916
+304,"61-31 Roosevelt Ave
+Woodside, NY 11377",Fay Da Bakery,26,Point,-73.90284059999999,40.7458101
+305,"161 Havemeyer St
+Brooklyn, NY 11211",Harmony Tea House,26,Point,-73.9576029,40.7112708
+306,"Located in
+The St. Regis New York",Astor Court,26,Point,-73.9744893,40.7613727
+307,"2232 White Plains Rd
+Bronx, NY 10467",China Mia,25,Point,-73.8672591,40.8585192
+308,"225 E 110th St
+New York, NY 10029",Lemon Life,25,Point,-73.94158890000001,40.793866
+309,"390 Manhattan Ave
+New York, NY 10026",Harmony,25,Point,-73.9563026,40.8053278
+310,"166 W 72nd St
+New York, NY 10023",Juicy Cube,24,Point,-73.9812185,40.7781931
+311,"1457 York Ave
+New York, NY 10075",Jupioca,24,Point,-73.95148089999999,40.7703618
+312,"New York, NY 10013",Ling’s Sweet Mini Cakes,24,Point,-74.0094471,40.7217861
+313,"4501 4th Ave
+Brooklyn, NY 11220",Savoy 4 Bakery,24,Point,-74.00947,40.6490053
+314,"533 86th St
+Brooklyn, NY 11209",Swirl Fun Frozen Yogurt,24,Point,-74.025181,40.6211093
+315,"38 Middle Neck Rd
+Great Neck, NY 11021",Mr.Wish,24,Point,-73.7287257,40.7875587
+316,"575 8th Ave
+New York, NY 10018",Paris Baguette,23,Point,-73.9917692,40.7549941
+317,"39-48B Queens Blvd
+Sunnyside, NY 11104",Tealicious Express,23,Point,-73.924483,40.7435249
+318,"57-16 Woodside Ave
+Woodside, NY 11377",Momochai,23,Point,-73.90681339999999,40.7456038
+319,"1323 Ave U
+Brooklyn, NY 11229",TBaar,23,Point,-73.9575259,40.5988348
+320,"61 Lexington Ave
+Unit D
+New York, NY 10010",PokeZone One,22,Point,-73.983508,40.7408493
+321,"61 Lexington Ave
+Unit D
+New York, NY 10010",PokeZone One,22,Point,-73.983508,40.7408493
+322,"61 Lexington Ave
+Unit D
+New York, NY 10010",YinYang Coffee & Tea,1,Point,-73.983508,40.7408493
+323,"61 Lexington Ave
+Unit D
+New York, NY 10010",YinYang Coffee & Tea,1,Point,-73.983508,40.7408493
+324,"1324 2nd Ave
+New York, NY 10021",Vivi Bubble Tea,22,Point,-73.9591496,40.7672016
+325,"1300 Madison Ave
+New York, NY 10128",bobamosa,22,Point,-73.9561074,40.7849481
+326,"4865D Broadway
+New York, NY 10034",Go Greenly Inwood,22,Point,-73.92394949999999,40.8669311
+327,"307 Knickerbocker Ave
+Brooklyn, NY 11237",Tornado Crepe,21,Point,-73.9231918,40.70174859999999
+328,"8625 5th Ave
+Brooklyn, NY 11209",Kung Fu Tea,21,Point,-74.0265122,40.620814
+329,"113 Court St
+Ste A
+Brooklyn, NY 11201",Vivi Bubble Tea,21,Point,-73.99166679999999,40.69055660000001
+330,"32-55 Steinway St
+Astoria, NY 11103",Uncle Drink,21,Point,-73.919885,40.7575216
+331,"2 E Broadway
+Ste 6
+New York, NY 10038",Vivi Bubble Tea,20,Point,-73.99753,40.7136108
+332,"295 Broadway
+Brooklyn, NY 11211",Hawa Smoothies & Bubble Tea,20,Point,-73.9580872,40.70863749999999
+333,"69 1st Ave
+New York, NY 10003",Fancy Juice,20,Point,-73.987158,40.7254414
+334,"54-56 Myrtle Ave
+Ridgewood, NY 11385",YoFresh Yogurt Cafe,20,Point,-73.908823,40.6996799
+335,"144-06 Northern Blvd
+Flushing, NY 11354",Sweets Bakery & Cafe,20,Point,-73.82307,40.7644139
+336,"247 8th Ave
+New York, NY 10011",Hawa Smoothies,20,Point,-73.9990006,40.7449512
+337,"315 Greenwich St
+New York, NY 10013",Kung Fu Tea,19,Point,-74.01052589999999,40.7169376
+338,"86-10 Suite 10
+Ste 10
+Jackson Heights, NY 11372",Tornado Crepe,19,Point,-73.879919,40.747816
+339,"244 7th Ave
+Brooklyn, NY 11215",Hawa Smoothie And Juice,19,Point,-73.9795233,40.6695591
+340,"244 7th Ave
+Brooklyn, NY 11215",Hawa Smoothie And Juice,19,Point,-73.9795233,40.6695591
+341,"244 7th Ave
+Brooklyn, NY 11215",Bobo’s Smoothies,4,Point,-73.9795233,40.6695591
+342,"244 7th Ave
+Brooklyn, NY 11215",Bobo’s Smoothies,4,Point,-73.9795233,40.6695591
+343,"218 Bedford Ave
+Store 1M
+Brooklyn, NY 11249",CoCo Fresh Tea & Juice,19,Point,-73.9592644,40.7166336
+344,"39 John St
+New York, NY 10038",Jupioca,19,Point,-74.0081372,40.7094669
+345,"6816 4th Ave
+Brooklyn, NY 11220",Sunny Sweet Bakery,18,Point,-74.0236793,40.63501600000001
+346,"5502 8th Ave
+Brooklyn, NY 11220",Teaus,18,Point,-74.00693369999999,40.6383307
+347,"5913 8th Ave
+Brooklyn, NY 11220",T Baar Bubble Tea & Smoothie,18,Point,-74.0092415,40.6355931
+348,"7309 3rd Ave
+Brooklyn, NY 11209",Cheesecake Diva,17,Point,-74.0272044,40.6325132
+349,"506 Amsterdam Ave
+New York, NY 10024",Kureiji Poke Sushi,17,Point,-73.976047,40.7868084
+350,"Located in
+Queens Crossing",Happy Lemon,17,Point,-73.8299054,40.7607154
+351,"5718 5th Ave
+Sunset Park, NY 11220",Lee Lee,17,Point,-74.01502470000001,40.6409365
+352,"371 E Fordham Rd
+Bronx, NY 10458",Little China City,17,Point,-73.8922473,40.8620651
+353,"2783 3rd Ave
+Ste 2
+Bronx, NY 10455",Perry’s Coffee Shop,17,Point,-73.9199194,40.81513289999999
+354,"156 Lawrence St
+Brooklyn, NY 11201",Gong Cha,17,Point,-73.9865257,40.6915133
+355,"Located in
+Roosevelt Field",Gong Cha,17,Point,-73.61280769999999,40.73806310000001
+356,"90-19 Corona Ave
+Elmhurst, NY 11373",Little House Cafe,17,Point,-73.874594,40.7419743
+357,"195-09 69th Ave
+Fresh Meadows, NY 11365",Kowloon City Cafe,17,Point,-73.7781941,40.7371881
+358,"756 W 181st St
+New York, NY 10033",YoSweets,17,Point,-73.9379462,40.85067
+359,"325 Broadway
+New York, NY 10007",Vivi Bubble Tea,16,Point,-74.004925,40.716076
+360,"182-4 Horace Harding Expy
+Flushing, NY 11365",Coco Fresh Tea & Juice,16,Point,-73.79157219999999,40.7389789
+361,"39-61 61st St
+Woodside, NY 11377",Woodside Rainbow Bakery,16,Point,-73.9031664,40.7452974
+362,"17 Newkirk Plz
+Flatbush - Ditmas Park, NY 11226",Newkirk Fruit,16,Point,-73.96246719999999,40.6348653
+363,"86 5th Ave
+Brooklyn, NY 11217",Mr.Wish,16,Point,-73.9779295,40.6805206
+364,"572 8th Ave
+New York, NY 10018",Grace Cafe,16,Point,-73.9912212,40.7547587
+365,"8782 Sutphin Blvd
+Jamaica, NY 11435",Sweet Mango,16,Point,-73.8096723,40.7049366
+366,"150 Kenilworth Pl
+Brooklyn, NY 11210",Caffe Bene,15,Point,-73.948829,40.6323276
+367,"106 Macdougual St
+New York, NY 10012",Avalon New York,15,Point,-74.00074760000001,40.7294154
+368,"1616 Avenue U
+Brooklyn, NY 11229",Vivi Bubble Tea,15,Point,-73.954925,40.5987961
+369,"36-09 Main St
+Queens, NY 11354",Motea Garden,15,Point,-73.83153999999999,40.76264279999999
+370,"888B Grand Concourse
+Bronx, NY 10451",Asia Grill Express,15,Point,-73.9225673,40.8265222
+371,"2037 86th St
+New York, NY 11214",Snow & Cream,15,Point,-73.99710920000001,40.604173
+372,"61-35 Junction Blvd
+61-35 Junction Blvd
+Rego Park, NY 11374",Gong Cha,15,Point,-73.8630026,40.7332246
+373,"278 Wyckoff Ave
+Brooklyn, NY 11237",Jupioca,15,Point,-73.9121344,40.6998733
+374,"81-18 Broadway
+Queens, NY 11373",Yu Tea,14,Point,-73.8834433,40.74297800000001
+375,"Located in
+New World Mall",Kung Fu Tea,14,Point,-73.82905749999999,40.7593729
+376,"10216 Liberty Ave
+Ozone Park, NY 11416",Avanzar Smoothies,14,Point,-73.83795490000001,40.6813634
+377,"6004 Kissena Blvd
+Flushing, NY 11355",Kissena Cafe,14,Point,-73.8152846,40.7398192
+378,"37-63 90th St
+Jackson Heights, NY 11372",Max Bakery and Restaurant,13,Point,-73.87643419999999,40.7487182
+379,"158-36 Cross Bay Blvd
+Howard Beach, NY 11414",Mr.Green,13,Point,-73.840328,40.659812
+380,"388 6th Ave
+New York, NY 10011",Grab & Go,13,Point,-73.9995539,40.7331073
+381,"4722 8th Ave
+Brooklyn, NY 11220",Drink Tea,13,Point,-74.0025265,40.6425018
+382,"41-17 Bell Blvd
+Bell Boulevard
+Bayside, NY 11361",Packed,13,Point,-73.77051569999999,40.7631251
+383,"550 First Ave
+New York, NY 10016",Argo Tea,13,Point,-73.9739578,40.7421182
+384,"4106 163rd St
+Flushing, NY 11358",Koryodang,12,Point,-73.8030891,40.7612219
+385,"Alfred Lerner Hall Columbia University
+2920 Broadway
+New York, NY 10027",Café East,12,Point,-73.9640797,40.8069705
+386,"348 6th St
+Brooklyn, NY 11215",Crepe Meets Bubble Tea,12,Point,-73.98457549999999,40.6707299
+387,"5701 8th Ave
+Ste A
+Brooklyn, NY 11220",Happy Lemon,12,Point,-74.0076711,40.6369693
+388,"38 Park Row
+Ste 1
+New York, NY 10038",Sprinkles Land,12,Point,-74.00652529999999,40.7116959
+389,"6317 8th Ave
+Brooklyn, NY 11220",T Baar,11,Point,-74.0114431,40.6333801
+390,"264 Kings Hwy
+Brooklyn, NY 11223",Long Wong Bakery,11,Point,-73.98079109999999,40.6051108
+391,"333 6th Ave
+New York, NY 10014",Cool Fresh Juice Bar,11,Point,-74.0014132,40.7314983
+392,"Located in
+Skyview Center",Gong Cha,11,Point,-73.834941,40.7574274
+393,"532B Forest Ave
+Staten Island, NY 10310",ViVi Bubble Tea,11,Point,-74.1079043,40.6301502
+394,"457 W 50th St
+New York, NY 10019",ANA Ramen,11,Point,-73.9912901,40.7646672
+395,"5905 4th Ave
+Brooklyn, NY 11220",Full Doe,11,Point,-74.0177661,40.6410754
+396,"40-10 Main St
+Flushing, NY 11354",Tea Cha Cha,10,Point,-73.8303045,40.7592195
+397,"365 Central Park Ave
+Ste 7
+Scarsdale, NY 10583",Bubble Shop,10,Point,-73.8094655,41.0092615
+398,"596 3rd Ave
+New York, NY 10016",Caffe Bene - 3rd Ave,10,Point,-73.97612699999999,40.74886
+399,"1578 Gates Ave
+Ridgewood, NY 11385",TBaar,10,Point,-73.9112675,40.7001587
+400,"5401 8th Ave
+Store B
+Brooklyn, NY 11220",Macao Imperial Tea,10,Point,-74.0059467,40.63865500000001
+401,"3 Bay 25th St
+Brooklyn, NY 11214",Me-Do Desserts,10,Point,-73.99763,40.603855
+402,"406 East 64th St
+New York, NY 10065",64st Garden Cafe,10,Point,-73.9592555,40.7623539
+403,"52 Willoughby St
+Downtown Brooklyn, NY 11201",BK Express,9,Point,-73.98684829999999,40.6920244
+404,"5002 5th Ave
+New York, NY 11220",Vivi Bubble Tea,9,Point,-74.01068699999999,40.6451644
+405,"79 A Mott St
+New York, NY 10013",CoCo Fresh Tea & Juice,9,Point,-73.9981766,40.716539
+406,"Located in
+Newport Centre",Kokee Tea,9,Point,-74.0367177,40.7269831
+407,"37-01 82nd St
+Jackson Heights, NY 11372",Coco Fresh Tea & Juice,9,Point,-73.8839807,40.74959279999999
+408,"3042 Buhre Ave
+Middletown - Pelham Bay, NY 10461",Juice Rite,9,Point,-73.8308559,40.8473299
+409,"471 5th Ave
+Brooklyn, NY 11215",Chu Tea,8,Point,-73.98692860000001,40.668116
+410,"8520 20th Ave
+Bensonhurst, NY 11214",Tbaar,8,Point,-73.9982685,40.6048307
+411,"4304 Junction Blvd
+Corona, NY 11368",Coffeer,8,Point,-73.8683238,40.7453554
+412,"5723 8th Ave
+Brooklyn, NY 11220",Gong Cha,8,Point,-74.0081273,40.6366048
+413,"Located in
+Friendship Plaza",Vivi Bubble Tea,8,Point,-74.2255682,40.1411504
+414,"18301 Horace Harding Expy
+Fresh Meadows, NY 11365",Star Cafe,8,Point,-73.791185,40.74012
+415,"97-17 Jamaica Av
+Queens, NY 11421",Hao Hao Kitchen,7,Point,-73.8479918,40.6949137
+416,"41-12B 102nd St
+Corona, NY 11368",Kung Fu Tea,7,Point,-73.8635243,40.7480801
+417,"136-84 Roosevelt Ave
+Flushing, NY 11354",ViVi Bubble Tea,7,Point,-73.8270677,40.7601584
+418,"New York, NY 10002",Camellia Milk Tea,7,Point,-73.9859414,40.7135097
+419,"136-49 Roosevelt Ave
+Flushing, NY 11354",Coco Fresh Tea & Juice,7,Point,-73.82840689999999,40.760229
+420,"36 W 47th St
+New York, NY 10036",Shanghai Sogo,6,Point,-73.9803859,40.7572345
+421,"6517 18th Ave
+1B
+Brooklyn, NY 11204",Vivi Bubble Tea,6,Point,-73.99038329999999,40.61863760000001
+422,"60-15 Woodside Ave
+Queens, NY 11377",Cornerstone Café,6,Point,-73.90382900000002,40.7450988
+423,"18 Beaver St
+New York, NY 10004",Juice Vitality,6,Point,-74.0124081,40.7048052
+424,"43-35 91st Pl
+Elmhurst, NY 11373",Yomi Station,5,Point,-73.8736002,40.7427137
+425,"136-37 Roosevelt Ave
+Flushing, NY 11354",No! Tea,5,Point,-73.828842,40.7601609
+426,"262 Cypress Ave
+Bronx, NY 10454",Master Grill,5,Point,-73.9139716,40.8059196
+427,"1274 Castle Hill Ave
+Bronx, NY 10462",Juice Rite,5,Point,-73.851216,40.8339772
+428,"69 Mulberry St
+New York, NY 10013",Justin Tea,5,Point,-73.9994952,40.7160455
+429,"40-10 Main St
+Ameri East Mall
+Flushing, NY 11354",Chatime,4,Point,-73.8304131,40.75918739999999
+430,"265 Graham Ave
+Store Front
+Brooklyn, NY 11206",Creep City Ninja Bubble Tea,4,Point,-73.94735949999999,40.702843
+431,"47th & Broadway
+New York, NY 10036",Mr Bing,4,Point,-73.9851254,40.7594242
+432,"4715 8th Ave
+Brooklyn, NY 11220",Fly Long Tea,4,Point,-74.0019875,40.6422604
+433,"434 Marcus Garvey Blvd
+Brooklyn, NY 11216",Cloud 9 Crepes,4,Point,-73.9380049,40.6819979
+434,"133-35 Roosevelt Ave
+Ste 1
+Flushing, NY 11354",Bubble Panda,4,Point,-73.8331304,40.7588339
+435,"5411 7th Ave
+Brooklyn, NY 11220",Bao Bao Tea （可胜茶）,4,Point,-74.0081387,40.6398453
+436,"122 Bedford Ave
+Brooklyn, NY 11249",Mr. Wish,4,Point,-73.955944,40.71974549999999
+437,"1187 Morrison Ave
+Bronx, NY 10472",I Eat,3,Point,-73.8746501,40.82908690000001
+438,"5458 Myrtle Ave
+Ridgewood, NY 11385",The Pretzel Twister,3,Point,-73.9086939,40.6996894
+439,"451 E 116th St
+New York, NY 10029",harmony,3,Point,-73.93320369999999,40.795369
+440,"162 E 25th St
+New York, NY 10010",Anda Cafe,3,Point,-73.9826897,40.7401525
+441,"36 W 36th St
+New York, NY 10018",TBaar,2,Point,-73.9854363,40.7502326
+442,"5822 8th Ave
+Brooklyn, NY 11220",Earnest Tea,2,Point,-74.009029,40.636323
+443,"411 Troy Ave
+Brooklyn, NY 11213",Pho-men On Troy,2,Point,-73.9369074,40.6643693
+444,"1205 Church Ave
+Brooklyn, NY 11218",Yah Suh NYCE,2,Point,-73.96814950000001,40.6476301
+445,"98 Walker St
+New York, NY 10013",Bubble Tea,1,Point,-74.0005182,40.7178215
+446,"968 Avenue Of The Americas
+New York, NY 10001",Hong Kong Street Cart At Broadway Bites,1,Point,-73.9867448,40.7506692
+447,"103-22 Roosevelt Ave
+Queens, NY 11368",U-Crew Thai Creamery & Tea,1,Point,-73.8620263,40.7495605
+448,"5223 8th Ave 53 St
+Brooklyn, NY 11220",Tea Do,1,Point,-74.0052655,40.6394525

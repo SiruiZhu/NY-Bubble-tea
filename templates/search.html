@@ -1,0 +1,9 @@
+{% extends 'layout.html' %}
+
+{% block content %}
+  <ul>
+    {% for store in stores %}
+       <li><a href="{{ url_for('store', index=store.index) }}">{{ store.store }}</a></li>
+    {% endfor %}
+  </ul>
+{% endblock %}

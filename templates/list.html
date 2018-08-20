@@ -1,0 +1,11 @@
+
+{% extends 'layout.html' %}
+
+{% block content %}
+  <p>Ranked by numbers of good reviews</p>
+  <ul>
+    {% for store in stores %}
+       <li><a href="{{ url_for('store', index=store.index) }}">{{ store.store }}</a></li>
+    {% endfor %}
+  </ul>
+{% endblock %}

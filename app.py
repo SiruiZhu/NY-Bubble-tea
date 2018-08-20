@@ -32,13 +32,11 @@ def store(index):
   store = Store.query.filter_by(index=index).first()
   return render_template("show.html", store=store)
 
-@app.route("/search")
-def search():
-  name = request.args.get('query')
-  stores = Store.query.filter(Store.store.contains(name)).all()
-  return render_template("search.html", stores=stores)
-
-
+# @app.route("/search")
+# def search():
+#   name = request.args.get('query')
+#   stores = Store.query.filter(Store.store.contains(name)).all()
+#   return render_template("search.html", stores=stores)
 
 
 
